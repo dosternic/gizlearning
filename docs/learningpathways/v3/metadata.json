@@ -152,6 +152,44 @@
  }
 ],
   "Categories": [
+      
+         {
+      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Name": "Products",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+          "Name": "Procesos digitales",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "11250c76-6217-48c0-9227-22f4daee733e",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
+          "Name": "Competencias digitales",
+          "Image": "images/categories/onedrive.png",
+          "TechnologyId": "b146d679-982d-4ff3-bfda-c349b9a24632",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "f9b14990-420a-4678-87a8-8428928186c6",
+          "Name": "Compétences numériques",
+          "Image": "images/categories/word.png",
+          "TechnologyId": "cb22bd5a-b5fe-4c06-a6ae-6adca854eb97",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+          ]
+         },
  {
    "Name": "Al día en la transformación digital",
    "id": "71bf6738-8236-4bae-9be7-386ce5e08bc0",
